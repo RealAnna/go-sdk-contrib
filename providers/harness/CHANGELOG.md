@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5-alpha](https://github.com/open-feature/go-sdk-contrib/compare/providers/harness/v0.0.4-alpha...providers/harness/v0.0.5-alpha) (2024-02-12)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update module github.com/harness/ff-golang-server-sdk to v0.1.17 ([#382](https://github.com/open-feature/go-sdk-contrib/issues/382)) ([6a3dfee](https://github.com/open-feature/go-sdk-contrib/commit/6a3dfee47f8b97ba15f0c2b5b70a86184a8559a6))
+
 ## [0.0.4-alpha](https://github.com/open-feature/go-sdk-contrib/compare/providers/harness/v0.0.3-alpha...providers/harness/v0.0.4-alpha) (2024-01-05)
 
 
