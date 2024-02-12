@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.23](https://github.com/open-feature/go-sdk-contrib/compare/providers/flagd/v0.1.22...providers/flagd/v0.1.23) (2024-02-12)
+
+
+### 🧹 Chore
+
+* improve contrib guide with e2e test details ([#447](https://github.com/open-feature/go-sdk-contrib/issues/447)) ([8dd5fc6](https://github.com/open-feature/go-sdk-contrib/commit/8dd5fc6a317665918b3432d6e4d7a4ba0598f554))
+* move flagd specific submodule to flagd module ([#449](https://github.com/open-feature/go-sdk-contrib/issues/449)) ([243a69c](https://github.com/open-feature/go-sdk-contrib/commit/243a69cad40f1a36b302de3247a1de0068096867))
+
 ## [0.1.22](https://github.com/open-feature/go-sdk-contrib/compare/providers/flagd/v0.1.21...providers/flagd/v0.1.22) (2024-02-01)
 
 
